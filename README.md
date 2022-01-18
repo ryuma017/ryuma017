@@ -1,4 +1,4 @@
-### Hi there, I'm ryuma017 👋🏻 <img alt="batch" src="https://komarev.com/ghpvc/?username=ryuma017&color=blue&style=plastic" />
+### Hi there, I'm ryuma017 👋🏻  <img alt="batch" src="https://komarev.com/ghpvc/?username=ryuma017&color=blue&style=plastic" />
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuma017&count_private=true&show_icons=true&theme=default" />
