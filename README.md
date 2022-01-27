@@ -4,11 +4,11 @@
   <img alt="batch" src="https://komarev.com/ghpvc/?username=ryuma017&color=blue&style=plastic" />
 </p>
 
-<p style="width: 700px;">
+<p>
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuma017&theme=github" />
  </p>
 
-<p style="width: 700px;"> 
+<p> 
   <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryuma017&theme=github" />
   <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryuma017&theme=github" />
 </p>
