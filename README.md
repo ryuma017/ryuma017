@@ -8,7 +8,7 @@
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuma017&theme=github"
  </p>
 
-<p align="center"> 
+<p align="left"> 
   <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryuma017&theme=github" />
   <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuma017&theme=github" />
 </p>
