@@ -1,10 +1,10 @@
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ryuma017&color=lightgrey&style=for-the-badge)
-
   # Hi there 👋🏻, I'm ryuma017
 
   **I love to code**
+
+  <br>
 
   ## About
 
@@ -13,6 +13,8 @@
   ![Type: Student](https://img.shields.io/badge/type-student-blue?style=for-the-badge)
 
   ![Love: Coding](https://img.shields.io/badge/love-coding-ff69b4?style=for-the-badge)
+
+  <br>
 
   ## Skills
 
@@ -27,7 +29,11 @@
   ![Python: Passing](https://img.shields.io/badge/python-passing-3572a5?style=for-the-badge)
   ![Django: Passing](https://img.shields.io/badge/django-passing-3572a5?style=for-the-badge)
 
+  <br>
+
   ## Status on GitHub
+  ![Profile Views](https://komarev.com/ghpvc/?username=ryuma017&color=lightgrey&style=for-the-badge)
+
   ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuma017&theme=github)
 
   ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryuma017&theme=github)
