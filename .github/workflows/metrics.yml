@@ -28,10 +28,10 @@ jobs:
           # Languages activity
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: lines, percentage
-          plugin_languages_ignored: html, css, scss, powershell, plpgsql, makefile, csv, svg, markdown, yaml, toml, json
+          plugin_languages_ignored: html, css, scss, powershell, plpgsql, makefile
           plugin_languages_indepth: true
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
