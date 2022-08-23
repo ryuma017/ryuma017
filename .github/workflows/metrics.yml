@@ -1,0 +1,43 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: 0 * * * * # each hour
+
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          user: ryuma017
+          template: classic
+          base: activity, community, metadata
+          base_indepth: true
+          config_timezone: Asia/Tokyo
+          
+          # Languages activity
+          plugin_languages: true
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_colors: github
+          plugin_languages_details: lines, percentage
+          plugin_languages_ignored: html, css, scss, powershell, plpgsql, makefile
+          plugin_languages_indepth: true
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Notable contributions
+          plugin_notable: true
+          plugin_notable_from: organization
+          plugin_notable_types: commit, pull_request, issue
