@@ -31,7 +31,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: lines, percentage
-          plugin_languages_ignored: html, css, scss, powershell, plpgsql, makefile
+          plugin_languages_ignored: html, css, scss, powershell, plpgsql, makefile, renderscript
           plugin_languages_indepth: true
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
