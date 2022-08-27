@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: 0 * * * * # each hour
+    - cron: 0 15 * * * # 0000 JST
 
   workflow_dispatch:
 
