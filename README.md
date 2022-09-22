@@ -4,7 +4,9 @@
 
 ## Hi 👋🏻, I'm ryuma017
 
-**I love to code. Just keep learning.**
+**Love coding. Just keep learning and improving.**
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuma017&color=lightgrey&style=flat-square)
 
