@@ -29,11 +29,11 @@ jobs:
           plugin_languages: true
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          plugin_languages_details: lines, percentage
+          plugin_languages_details: percentage
           plugin_languages_ignored: javascript, powershell, plpgsql, makefile, dockerfile, renderscript
           plugin_languages_sections: most-used
           plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
           plugin_languages_indepth: true
 
           # Notable contributions
