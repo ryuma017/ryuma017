@@ -104,11 +104,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.3775980454394" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="430.3775980454394" y="0" width="12.559115506432274" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.9367135518717" y="0" width="9.656304796154018" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.5930183480257" y="0" width="5.4173172146139095" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.0103355626396" y="0" width="1.9896644373603825" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.7811491062965" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="430.7811491062965" y="0" width="12.570891780125573" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="443.35204088642206" y="0" width="9.665359198758019" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.01740008518004" y="0" width="4.99106983389891" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.00846991907895" y="0" width="1.9915300809210439" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -120,7 +120,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>93.56%</div>
+                                <div>93.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>1.18%</div>
+                                <div>1.09%</div>
                             </small>
                         </div>
                     </section>
@@ -192,7 +192,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2023, 00:05:55 (timezone Asia/Tokyo) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Feb 2023, 00:05:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
