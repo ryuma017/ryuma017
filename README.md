@@ -23,16 +23,7 @@
 ### 🛠 Languages
 
 [![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
-<!-- ![Zig: Watching](https://img.shields.io/badge/Zig-Watching...-F7A41D?style=for-the-badge&logo=zig&logoColor=F7A41D)
-
-![Python: Advanced Beginner](https://img.shields.io/badge/Python-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=python&logoColor=3572A5)
-<br>
-![Swift: Novice](https://img.shields.io/badge/Swift-Novice-7AA9CC?style=for-the-badge&logo=swift&logoColor=F05138)
-<br>
-![Go: Novice](https://img.shields.io/badge/Go-Novice-7AA9CC?style=for-the-badge&logo=go&logoColor=02ADD8)
-![TypeScript: Novice](https://img.shields.io/badge/TypeScript-Novice-7AA9CC?style=for-the-badge&logo=typescript&logoColor=3078C6) -->
-
-<!-- Competent: 0074CC, Advanced Beginner: 3D8ECC, Novice: 7AA9CC -->
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=000000)](https://go.dev/)
 
 ### 🗣 Social
 
