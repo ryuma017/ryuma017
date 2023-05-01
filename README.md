@@ -4,7 +4,7 @@
 
 ## Hi 👋🏻, I'm ryuma017
 
-**Love coding. Just keep learning and improving.**
+**Love Rust & coding.**
 
 <br>
 
@@ -17,8 +17,6 @@
 ![Name: Ryuma Taguchi](https://img.shields.io/badge/Name-Ryuma%20Taguchi-0074CC?style=for-the-badge)
 ![Age: 21](https://img.shields.io/badge/Age-21-0074CC?style=for-the-badge)
 ![Type: Employee](https://img.shields.io/badge/Type-Employee-0074CC?style=for-the-badge)
-<br>
-![Love: Coding](https://img.shields.io/badge/Love-Coding-FF69B4?style=for-the-badge)
 
 ### 🛠 Languages
 
