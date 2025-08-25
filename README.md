@@ -2,8 +2,8 @@
 
 <samp>
 
-## Hi 👋🏻, I'm ryuma017
-
+Hi 👋🏻, I'm ryumatag
+-------------------
 **Love Rust & coding.**
 
 <br>
@@ -15,7 +15,7 @@
 ### 💁🏻‍♂️ About
 
 ![Name: Ryuma Taguchi](https://img.shields.io/badge/Name-Ryuma%20Taguchi-blue?style=for-the-badge)
-![Age: 22](https://img.shields.io/badge/Age-21-blue?style=for-the-badge)
+![Age: 24](https://img.shields.io/badge/Age-24-blue?style=for-the-badge)
 ![Type: Employee](https://img.shields.io/badge/Type-Employee-blue?style=for-the-badge)
 
 ### 🛠 Languages
